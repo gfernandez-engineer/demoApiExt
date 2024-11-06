@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.api-externas-demo</groupId>
-	<artifactId>demoApiExt</artifactId>
+	<artifactId>demoApiExtRetroFit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demoApiExt</name>
 	<description>Proyecto demo para el consumo y disponibilización de apis externas</description>
